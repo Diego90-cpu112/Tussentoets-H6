@@ -20,5 +20,5 @@ if(A == true && B == false){
 if(A == false && B == false){
   println("true");
 }else{
-  println("false");
+  println("false");  
 }
